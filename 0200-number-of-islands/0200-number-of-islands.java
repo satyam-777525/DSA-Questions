@@ -1,30 +1,42 @@
 class Solution {
-    int rows;
-    int cols;
     public int numIslands(char[][] grid) {
-        int islands=0;
-        rows=grid.length;
-        cols =grid[0].length;
-        boolean visited[][]=new boolean[rows][cols];
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
-                if(grid[i][j]=='1' && visited[i][j]==false){
-                    islands++;
-                    dfs(grid,i,j,visited);
+        int row=grid.length;
+        int col=grid[0].length;
+        int island=0;
+
+        boolean[][] visit=new boolean[row][col];
+        int adjList[][]={{1,0},{-1,0},{0,1},{0,-1}};
+
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(grid[i][j]=='1'&&visit[i][j]==false){
+                    island++;
+             
+        // bfs
+        Queue<int[]> q=new LinkedList<>();
+        q.add(new int[]{i,j});
+        visit[i][j]=true;
+
+        while(!q.isEmpty()){
+            int x[]=q.poll();
+            int r=x[0];
+            int c=x[1];
+
+            for(int d[]:adjList){
+                int nr=r+d[0];
+                int nc=c+d[1];
+
+                if (nr>=0 && nr<row && nc >= 0 && nc < col && grid[nr][nc] == '1' && !visit[nr][nc]) {
+                                q.add(new int[]{nr, nc});
+                                visit[nr][nc] = true;
                 }
             }
         }
-        return islands;
+                }}}
         
-    }
-    public void dfs(char[][] grid,int r,int c,boolean[][]visited){
-        if(r<0 ||c<0||r>=rows||c>=cols||grid[r][c]=='0'||visited[r][c]==true){
-            return;
-        }
-        visited[r][c]=true;
-        int adj[][]={{r-1,c},{r,c+1},{r+1,c},{r,c-1}};
-        for(int[]neigh:adj){
-            dfs(grid,neigh[0],neigh[1],visited);
-        }
+        return island;
+
+
+
     }
 }
