@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 ## Monotonic Stack
 |  |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
