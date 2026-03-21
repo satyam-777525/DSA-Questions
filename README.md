@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/satyam-777525/DSA-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/satyam-777525/DSA-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/satyam-777525/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/satyam-777525/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/satyam-777525/DSA-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
