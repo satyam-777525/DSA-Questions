@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
+| [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/satyam-777525/DSA-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/satyam-777525/DSA-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
+| [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/satyam-777525/DSA-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
