@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/satyam-777525/DSA-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/satyam-777525/DSA-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/satyam-777525/DSA-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Trie
 |  |
 | ------- |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/satyam-777525/DSA-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
