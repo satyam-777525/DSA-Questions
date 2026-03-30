@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/satyam-777525/DSA-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
