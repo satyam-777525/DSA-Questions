@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/satyam-777525/DSA-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/satyam-777525/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/satyam-777525/DSA-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
