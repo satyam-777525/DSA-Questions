@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/satyam-777525/DSA-Questions/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/satyam-777525/DSA-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/satyam-777525/DSA-Questions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
