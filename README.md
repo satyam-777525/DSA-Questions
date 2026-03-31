@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/satyam-777525/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/satyam-777525/DSA-Questions/tree/master/0785-is-graph-bipartite) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/satyam-777525/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/1791-find-center-of-star-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
