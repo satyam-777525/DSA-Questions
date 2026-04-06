@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
+| [0874-walking-robot-simulation](https://github.com/satyam-777525/DSA-Questions/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/satyam-777525/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
+| [0874-walking-robot-simulation](https://github.com/satyam-777525/DSA-Questions/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/satyam-777525/DSA-Questions/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/satyam-777525/DSA-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2899-last-visited-integers](https://github.com/satyam-777525/DSA-Questions/tree/master/2899-last-visited-integers) |
