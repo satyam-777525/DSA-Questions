@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/satyam-777525/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/satyam-777525/DSA-Questions/tree/master/0866-prime-palindrome) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/satyam-777525/DSA-Questions/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
