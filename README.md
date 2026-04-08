@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/satyam-777525/DSA-Questions/tree/master/3523-make-array-non-decreasing) |
 | [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Greedy
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/satyam-777525/DSA-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2899-last-visited-integers](https://github.com/satyam-777525/DSA-Questions/tree/master/2899-last-visited-integers) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
