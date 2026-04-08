@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2899-last-visited-integers](https://github.com/satyam-777525/DSA-Questions/tree/master/2899-last-visited-integers) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/satyam-777525/DSA-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
 ## Divide and Conquer
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
