@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0652-find-duplicate-subtrees](https://github.com/satyam-777525/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0874-walking-robot-simulation](https://github.com/satyam-777525/DSA-Questions/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/satyam-777525/DSA-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/satyam-777525/DSA-Questions/tree/master/0901-online-stock-span) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0866-prime-palindrome](https://github.com/satyam-777525/DSA-Questions/tree/master/0866-prime-palindrome) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -474,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
