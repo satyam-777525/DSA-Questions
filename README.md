@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/satyam-777525/DSA-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Two Pointers
 |  |
 | ------- |
