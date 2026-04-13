@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/satyam-777525/DSA-Questions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0338-counting-bits) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/satyam-777525/DSA-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/satyam-777525/DSA-Questions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0338-counting-bits) |
 ## Array
 |  |
 | ------- |
