@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/satyam-777525/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/satyam-777525/DSA-Questions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/satyam-777525/DSA-Questions/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/satyam-777525/DSA-Questions/tree/master/0851-loud-and-rich) |
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [0820-short-encoding-of-words](https://github.com/satyam-777525/DSA-Questions/tree/master/0820-short-encoding-of-words) |
+| [0851-loud-and-rich](https://github.com/satyam-777525/DSA-Questions/tree/master/0851-loud-and-rich) |
 | [0874-walking-robot-simulation](https://github.com/satyam-777525/DSA-Questions/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/satyam-777525/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/satyam-777525/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/satyam-777525/DSA-Questions/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/satyam-777525/DSA-Questions/tree/master/0851-loud-and-rich) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/1791-find-center-of-star-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/satyam-777525/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/satyam-777525/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/satyam-777525/DSA-Questions/tree/master/0851-loud-and-rich) |
 ## Prefix Sum
 |  |
 | ------- |
