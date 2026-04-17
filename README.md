@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyam-777525/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/satyam-777525/DSA-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/satyam-777525/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2293-min-max-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2293-min-max-game) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-777525/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
