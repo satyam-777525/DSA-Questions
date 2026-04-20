@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
+| [2864-maximum-odd-binary-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/satyam-777525/DSA-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/satyam-777525/DSA-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2864-maximum-odd-binary-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/satyam-777525/DSA-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/satyam-777525/DSA-Questions/tree/master/2413-smallest-even-multiple) |
+| [2864-maximum-odd-binary-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2864-maximum-odd-binary-number) |
 | [2928-distribute-candies-among-children-i](https://github.com/satyam-777525/DSA-Questions/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
