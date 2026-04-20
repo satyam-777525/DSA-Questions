@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/satyam-777525/DSA-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/satyam-777525/DSA-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-777525/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/satyam-777525/DSA-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
