@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/satyam-777525/DSA-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-reducing-dishes](https://github.com/satyam-777525/DSA-Questions/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 ## Binary Search
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/satyam-777525/DSA-Questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/satyam-777525/DSA-Questions/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/satyam-777525/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-777525/DSA-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satyam-777525/DSA-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
