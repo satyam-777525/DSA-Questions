@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0338-counting-bits) |
 | [0477-total-hamming-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/0477-total-hamming-distance) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/satyam-777525/DSA-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Array
 |  |
 | ------- |
