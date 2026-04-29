@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0374-guess-number-higher-or-lower](https://github.com/satyam-777525/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyam-777525/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -679,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/satyam-777525/DSA-Questions/tree/master/0933-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/satyam-777525/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
