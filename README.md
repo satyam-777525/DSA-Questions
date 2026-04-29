@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyam-777525/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/satyam-777525/DSA-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/satyam-777525/DSA-Questions/tree/master/1089-duplicate-zeros) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
+| [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/satyam-777525/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-777525/DSA-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1383-maximum-performance-of-a-team](https://github.com/satyam-777525/DSA-Questions/tree/master/1383-maximum-performance-of-a-team) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
+| [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1286-iterator-for-combination](https://github.com/satyam-777525/DSA-Questions/tree/master/1286-iterator-for-combination) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/satyam-777525/DSA-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/satyam-777525/DSA-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
 | [0973-k-closest-points-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
+| [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1383-maximum-performance-of-a-team](https://github.com/satyam-777525/DSA-Questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/satyam-777525/DSA-Questions/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0820-short-encoding-of-words](https://github.com/satyam-777525/DSA-Questions/tree/master/0820-short-encoding-of-words) |
+| [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/satyam-777525/DSA-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Heap (Priority Queue)
 |  |
@@ -554,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/satyam-777525/DSA-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
+| [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1383-maximum-performance-of-a-team](https://github.com/satyam-777525/DSA-Questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
