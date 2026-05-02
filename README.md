@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/satyam-777525/DSA-Questions/tree/master/0901-online-stock-span) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3523-make-array-non-decreasing](https://github.com/satyam-777525/DSA-Questions/tree/master/3523-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1286-iterator-for-combination](https://github.com/satyam-777525/DSA-Questions/tree/master/1286-iterator-for-combination) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/satyam-777525/DSA-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
