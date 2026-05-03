@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/satyam-777525/DSA-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyam-777525/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/satyam-777525/DSA-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/satyam-777525/DSA-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/satyam-777525/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/satyam-777525/DSA-Questions/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/satyam-777525/DSA-Questions/tree/master/0851-loud-and-rich) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/1791-find-center-of-star-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
