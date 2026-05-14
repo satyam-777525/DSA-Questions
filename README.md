@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/satyam-777525/DSA-Questions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/satyam-777525/DSA-Questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/satyam-777525/DSA-Questions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/satyam-777525/DSA-Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0088-merge-sorted-array) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/satyam-777525/DSA-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satyam-777525/DSA-Questions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0216-combination-sum-iii) |
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
