@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/satyam-777525/DSA-Questions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0338-counting-bits) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/satyam-777525/DSA-Questions/tree/master/0071-simplify-path) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/satyam-777525/DSA-Questions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0216-combination-sum-iii) |
