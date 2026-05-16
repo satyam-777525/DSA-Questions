@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/satyam-777525/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyam-777525/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/satyam-777525/DSA-Questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/satyam-777525/DSA-Questions/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0260-single-number-iii) |
