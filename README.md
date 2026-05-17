@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1306-jump-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/satyam-777525/DSA-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/satyam-777525/DSA-Questions/tree/master/0841-keys-and-rooms) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1306-jump-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/satyam-777525/DSA-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/satyam-777525/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1306-jump-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-777525/DSA-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1383-maximum-performance-of-a-team](https://github.com/satyam-777525/DSA-Questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
