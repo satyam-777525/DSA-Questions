@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-777525/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyam-777525/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/satyam-777525/DSA-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/satyam-777525/DSA-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
