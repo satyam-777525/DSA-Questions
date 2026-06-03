@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/satyam-777525/DSA-Questions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyam-777525/DSA-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/satyam-777525/DSA-Questions/tree/master/3660-jump-game-ix) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/satyam-777525/DSA-Questions/tree/master/3523-make-array-non-decreasing) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyam-777525/DSA-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1861-rotating-the-box) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
