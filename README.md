@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/satyam-777525/DSA-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/satyam-777525/DSA-Questions/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/satyam-777525/DSA-Questions/tree/master/2928-distribute-candies-among-children-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Two Pointers
 |  |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyam-777525/DSA-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/satyam-777525/DSA-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
