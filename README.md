@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/satyam-777525/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/satyam-777525/DSA-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1695-maximum-erasure-value](https://github.com/satyam-777525/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyam-777525/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/satyam-777525/DSA-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/satyam-777525/DSA-Questions/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/satyam-777525/DSA-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1695-maximum-erasure-value](https://github.com/satyam-777525/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satyam-777525/DSA-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/satyam-777525/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/satyam-777525/DSA-Questions/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
