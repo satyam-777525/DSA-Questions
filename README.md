@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/satyam-777525/DSA-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/satyam-777525/DSA-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1871-jump-game-vii](https://github.com/satyam-777525/DSA-Questions/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/satyam-777525/DSA-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2451-odd-string-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2451-odd-string-difference) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/satyam-777525/DSA-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/satyam-777525/DSA-Questions/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
 | [2121-intervals-between-identical-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/satyam-777525/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/satyam-777525/DSA-Questions/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## String Matching
 |  |
