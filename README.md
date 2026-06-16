@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/satyam-777525/DSA-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyam-777525/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1052-grumpy-bookstore-owner](https://github.com/satyam-777525/DSA-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
 | [1089-duplicate-zeros](https://github.com/satyam-777525/DSA-Questions/tree/master/1089-duplicate-zeros) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/satyam-777525/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1052-grumpy-bookstore-owner](https://github.com/satyam-777525/DSA-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-777525/DSA-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satyam-777525/DSA-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
