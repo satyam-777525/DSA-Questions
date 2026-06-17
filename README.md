@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/satyam-777525/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/satyam-777525/DSA-Questions/tree/master/1345-jump-game-iv) |
+| [1396-design-underground-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1396-design-underground-system) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/satyam-777525/DSA-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1695-maximum-erasure-value](https://github.com/satyam-777525/DSA-Questions/tree/master/1695-maximum-erasure-value) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1286-iterator-for-combination](https://github.com/satyam-777525/DSA-Questions/tree/master/1286-iterator-for-combination) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/satyam-777525/DSA-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1396-design-underground-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1396-design-underground-system) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/satyam-777525/DSA-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satyam-777525/DSA-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1754-largest-merge-of-two-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/1754-largest-merge-of-two-strings) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/satyam-777525/DSA-Questions/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1286-iterator-for-combination](https://github.com/satyam-777525/DSA-Questions/tree/master/1286-iterator-for-combination) |
+| [1396-design-underground-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1396-design-underground-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
 ## Iterator
