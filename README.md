@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/0788-rotated-digits) |
 | [0866-prime-palindrome](https://github.com/satyam-777525/DSA-Questions/tree/master/0866-prime-palindrome) |
 | [0973-k-closest-points-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/satyam-777525/DSA-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
