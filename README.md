@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/satyam-777525/DSA-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
 | [1089-duplicate-zeros](https://github.com/satyam-777525/DSA-Questions/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1122-relative-sort-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1260-shift-2d-grid) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/satyam-777525/DSA-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
+| [1122-relative-sort-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/satyam-777525/DSA-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/satyam-777525/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
 | [0973-k-closest-points-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
+| [1122-relative-sort-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1122-relative-sort-array) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/satyam-777525/DSA-Questions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1383-maximum-performance-of-a-team](https://github.com/satyam-777525/DSA-Questions/tree/master/1383-maximum-performance-of-a-team) |
@@ -908,5 +911,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-777525/DSA-Questions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
