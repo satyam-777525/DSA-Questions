@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyam-777525/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2592-maximize-greatness-of-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/satyam-777525/DSA-Questions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/satyam-777525/DSA-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
+| [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/satyam-777525/DSA-Questions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/satyam-777525/DSA-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2899-last-visited-integers](https://github.com/satyam-777525/DSA-Questions/tree/master/2899-last-visited-integers) |
 | [2974-minimum-number-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
