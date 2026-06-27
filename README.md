@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/satyam-777525/DSA-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satyam-777525/DSA-Questions/tree/master/0055-jump-game) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/satyam-777525/DSA-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/satyam-777525/DSA-Questions/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/satyam-777525/DSA-Questions/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/satyam-777525/DSA-Questions/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
