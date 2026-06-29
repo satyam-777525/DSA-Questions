@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/satyam-777525/DSA-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1958-check-if-move-is-legal](https://github.com/satyam-777525/DSA-Questions/tree/master/1958-check-if-move-is-legal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/satyam-777525/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyam-777525/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1871-jump-game-vii](https://github.com/satyam-777525/DSA-Questions/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/satyam-777525/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/satyam-777525/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
