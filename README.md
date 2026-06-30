@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/satyam-777525/DSA-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2460-apply-operations-to-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2502-design-memory-allocator](https://github.com/satyam-777525/DSA-Questions/tree/master/2502-design-memory-allocator) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2451-odd-string-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2451-odd-string-difference) |
+| [2502-design-memory-allocator](https://github.com/satyam-777525/DSA-Questions/tree/master/2502-design-memory-allocator) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/satyam-777525/DSA-Questions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
 | [2716-minimize-string-length](https://github.com/satyam-777525/DSA-Questions/tree/master/2716-minimize-string-length) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-iterator-for-combination](https://github.com/satyam-777525/DSA-Questions/tree/master/1286-iterator-for-combination) |
 | [1396-design-underground-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1396-design-underground-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2502-design-memory-allocator](https://github.com/satyam-777525/DSA-Questions/tree/master/2502-design-memory-allocator) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
 ## Iterator
 |  |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2502-design-memory-allocator](https://github.com/satyam-777525/DSA-Questions/tree/master/2502-design-memory-allocator) |
 | [2553-separate-the-digits-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
