@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2502-design-memory-allocator](https://github.com/satyam-777525/DSA-Questions/tree/master/2502-design-memory-allocator) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2592-maximize-greatness-of-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2592-maximize-greatness-of-an-array) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2578-split-with-minimum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2578-split-with-minimum-sum) |
 | [2592-maximize-greatness-of-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2592-maximize-greatness-of-an-array) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2974-minimum-number-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2974-minimum-number-game) |
 ## Data Stream
