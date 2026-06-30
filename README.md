@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0338-counting-bits) |
 | [0477-total-hamming-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/0477-total-hamming-distance) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/satyam-777525/DSA-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/satyam-777525/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Array
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/satyam-777525/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2451-odd-string-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/satyam-777525/DSA-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2460-apply-operations-to-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2460-apply-operations-to-an-array) |
