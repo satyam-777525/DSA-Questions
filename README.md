@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2451-odd-string-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2451-odd-string-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/satyam-777525/DSA-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2460-apply-operations-to-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/satyam-777525/DSA-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2293-min-max-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2293-min-max-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/satyam-777525/DSA-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2592-maximize-greatness-of-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2592-maximize-greatness-of-an-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
