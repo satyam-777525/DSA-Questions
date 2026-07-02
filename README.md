@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/satyam-777525/DSA-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/satyam-777525/DSA-Questions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyam-777525/DSA-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-maximal-network-rank](https://github.com/satyam-777525/DSA-Questions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/1791-find-center-of-star-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/satyam-777525/DSA-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
@@ -809,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2974-minimum-number-game) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Data Stream
 |  |
 | ------- |
@@ -1000,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
