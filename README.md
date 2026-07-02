@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/satyam-777525/DSA-Questions/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/satyam-777525/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/satyam-777525/DSA-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2293-min-max-game) |
