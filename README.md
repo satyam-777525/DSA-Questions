@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyam-777525/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/satyam-777525/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/satyam-777525/DSA-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/satyam-777525/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/satyam-777525/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-maximal-network-rank](https://github.com/satyam-777525/DSA-Questions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/1791-find-center-of-star-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/satyam-777525/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
