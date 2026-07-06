@@ -1,0 +1,22 @@
+class Solution {
+    public int removeCoveredIntervals(int[][] intervals) {
+        Arrays.sort(intervals,(a,b)->{
+            if(a[0]==b[0]){
+                return b[1]-a[1];
+            }
+            return a[0]-b[0];
+        });
+        int n=intervals.length;
+        int count=0;
+        int end=0;
+        for(int arr[]:intervals){
+            if(arr[1]>end){
+                count++;
+                end=arr[1];
+            }
+        }
+        
+        return count;
+    }
+}
+//[1,4] [2,8] [3,6]
