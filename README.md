@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/satyam-777525/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/satyam-777525/DSA-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2293-min-max-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2293-min-max-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/satyam-777525/DSA-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/satyam-777525/DSA-Questions/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1383-maximum-performance-of-a-team](https://github.com/satyam-777525/DSA-Questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
+| [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
