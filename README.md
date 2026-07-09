@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/satyam-777525/DSA-Questions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyam-777525/DSA-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/satyam-777525/DSA-Questions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyam-777525/DSA-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3523-make-array-non-decreasing](https://github.com/satyam-777525/DSA-Questions/tree/master/3523-make-array-non-decreasing) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/satyam-777525/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/satyam-777525/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/satyam-777525/DSA-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
