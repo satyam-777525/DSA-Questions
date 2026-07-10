@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/satyam-777525/DSA-Questions/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/satyam-777525/DSA-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/satyam-777525/DSA-Questions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0216-combination-sum-iii) |
