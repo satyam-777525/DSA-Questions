@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/satyam-777525/DSA-Questions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/satyam-777525/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
 | [0899-orderly-queue](https://github.com/satyam-777525/DSA-Questions/tree/master/0899-orderly-queue) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-777525/DSA-Questions/tree/master/1833-maximum-ice-cream-bars) |
 ## Merge Sort
