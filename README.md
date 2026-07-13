@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/1291-sequential-digits) |
 | [1958-check-if-move-is-legal](https://github.com/satyam-777525/DSA-Questions/tree/master/1958-check-if-move-is-legal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/satyam-777525/DSA-Questions/tree/master/2928-distribute-candies-among-children-i) |
