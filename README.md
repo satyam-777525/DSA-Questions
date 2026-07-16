@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3838-weighted-word-mapping](https://github.com/satyam-777525/DSA-Questions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Hash Table
 |  |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/satyam-777525/DSA-Questions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/satyam-777525/DSA-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -890,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2592-maximize-greatness-of-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2592-maximize-greatness-of-an-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/satyam-777525/DSA-Questions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Counting
 |  |
@@ -979,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/satyam-777525/DSA-Questions/tree/master/2413-smallest-even-multiple) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyam-777525/DSA-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satyam-777525/DSA-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Ordered Set
 |  |
