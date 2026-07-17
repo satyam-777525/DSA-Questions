@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/satyam-777525/DSA-Questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/satyam-777525/DSA-Questions/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/satyam-777525/DSA-Questions/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/satyam-777525/DSA-Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/satyam-777525/DSA-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/satyam-777525/DSA-Questions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/satyam-777525/DSA-Questions/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/satyam-777525/DSA-Questions/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
