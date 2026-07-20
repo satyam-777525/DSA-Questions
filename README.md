@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/satyam-777525/DSA-Questions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/satyam-777525/DSA-Questions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/0788-rotated-digits) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/satyam-777525/DSA-Questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/satyam-777525/DSA-Questions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0216-combination-sum-iii) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/satyam-777525/DSA-Questions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/satyam-777525/DSA-Questions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/satyam-777525/DSA-Questions/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0820-short-encoding-of-words](https://github.com/satyam-777525/DSA-Questions/tree/master/0820-short-encoding-of-words) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
@@ -1067,4 +1072,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2396-strictly-palindromic-number) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
