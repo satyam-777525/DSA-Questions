@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/satyam-777525/DSA-Questions/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [0986-interval-list-intersections](https://github.com/satyam-777525/DSA-Questions/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/satyam-777525/DSA-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyam-777525/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/satyam-777525/DSA-Questions/tree/master/0948-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/satyam-777525/DSA-Questions/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/satyam-777525/DSA-Questions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyam-777525/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1081,4 +1083,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/satyam-777525/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/satyam-777525/DSA-Questions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
