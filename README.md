@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/satyam-777525/DSA-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/satyam-777525/DSA-Questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/satyam-777525/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/satyam-777525/DSA-Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/satyam-777525/DSA-Questions/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0494-target-sum) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/satyam-777525/DSA-Questions/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/satyam-777525/DSA-Questions/tree/master/0396-rotate-function) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
