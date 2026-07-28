@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satyam-777525/DSA-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/satyam-777525/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/satyam-777525/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/satyam-777525/DSA-Questions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/satyam-777525/DSA-Questions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/satyam-777525/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
