@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-reducing-dishes](https://github.com/satyam-777525/DSA-Questions/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/satyam-777525/DSA-Questions/tree/master/1871-jump-game-vii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyam-777525/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/satyam-777525/DSA-Questions/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/satyam-777525/DSA-Questions/tree/master/0899-orderly-queue) |
 | [0973-k-closest-points-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/satyam-777525/DSA-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -1080,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/satyam-777525/DSA-Questions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Queue
 |  |
