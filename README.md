@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2899-last-visited-integers](https://github.com/satyam-777525/DSA-Questions/tree/master/2899-last-visited-integers) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-777525/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyam-777525/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/satyam-777525/DSA-Questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-777525/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyam-777525/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-777525/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/satyam-777525/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
