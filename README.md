@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/satyam-777525/DSA-Questions/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/satyam-777525/DSA-Questions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/satyam-777525/DSA-Questions/tree/master/1871-jump-game-vii) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1563-stone-game-v](https://github.com/satyam-777525/DSA-Questions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyam-777525/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/satyam-777525/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/satyam-777525/DSA-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/satyam-777525/DSA-Questions/tree/master/1563-stone-game-v) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -1125,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/satyam-777525/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/satyam-777525/DSA-Questions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/satyam-777525/DSA-Questions/tree/master/2029-stone-game-ix) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Queue
