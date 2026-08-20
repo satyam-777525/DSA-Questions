@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyam-777525/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/satyam-777525/DSA-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/satyam-777525/DSA-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/satyam-777525/DSA-Questions/tree/master/3161-block-placement-queries) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/satyam-777525/DSA-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2899-last-visited-integers](https://github.com/satyam-777525/DSA-Questions/tree/master/2899-last-visited-integers) |
 | [2974-minimum-number-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/satyam-777525/DSA-Questions/tree/master/3242-design-neighbor-sum-service) |
 | [3612-process-string-with-special-operations-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
