@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyam-777525/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/satyam-777525/DSA-Questions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Union-Find
 |  |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3838-weighted-word-mapping](https://github.com/satyam-777525/DSA-Questions/tree/master/3838-weighted-word-mapping) |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/satyam-777525/DSA-Questions/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Two Pointers
@@ -1084,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/satyam-777525/DSA-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/satyam-777525/DSA-Questions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
