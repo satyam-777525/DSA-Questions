@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/satyam-777525/DSA-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/satyam-777525/DSA-Questions/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/satyam-777525/DSA-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/satyam-777525/DSA-Questions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/satyam-777525/DSA-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/satyam-777525/DSA-Questions/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
