@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/satyam-777525/DSA-Questions/tree/master/0790-domino-and-tromino-tiling) |
+| [0940-distinct-subsequences-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
 | [1092-shortest-common-supersequence](https://github.com/satyam-777525/DSA-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1140-stone-game-ii) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/satyam-777525/DSA-Questions/tree/master/0848-shifting-letters) |
 | [0899-orderly-queue](https://github.com/satyam-777525/DSA-Questions/tree/master/0899-orderly-queue) |
+| [0940-distinct-subsequences-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
