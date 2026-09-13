@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [0820-short-encoding-of-words](https://github.com/satyam-777525/DSA-Questions/tree/master/0820-short-encoding-of-words) |
+| [0835-image-overlap](https://github.com/satyam-777525/DSA-Questions/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/satyam-777525/DSA-Questions/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/satyam-777525/DSA-Questions/tree/master/0851-loud-and-rich) |
 | [0874-walking-robot-simulation](https://github.com/satyam-777525/DSA-Questions/tree/master/0874-walking-robot-simulation) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/satyam-777525/DSA-Questions/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/satyam-777525/DSA-Questions/tree/master/0909-snakes-and-ladders) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
