@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/satyam-777525/DSA-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/satyam-777525/DSA-Questions/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/satyam-777525/DSA-Questions/tree/master/0909-snakes-and-ladders) |
+| [1096-brace-expansion-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1306-jump-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1306-jump-game-iii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/satyam-777525/DSA-Questions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/satyam-777525/DSA-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/satyam-777525/DSA-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/satyam-777525/DSA-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
+| [1096-brace-expansion-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/satyam-777525/DSA-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/satyam-777525/DSA-Questions/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/satyam-777525/DSA-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
@@ -790,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1286-iterator-for-combination](https://github.com/satyam-777525/DSA-Questions/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/satyam-777525/DSA-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -905,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/satyam-777525/DSA-Questions/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
+| [1096-brace-expansion-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1122-relative-sort-array) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/satyam-777525/DSA-Questions/tree/master/1288-remove-covered-intervals) |
