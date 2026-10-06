@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/satyam-777525/DSA-Questions/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/satyam-777525/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/satyam-777525/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/satyam-777525/DSA-Questions/tree/master/0948-bag-of-tokens) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/satyam-777525/DSA-Questions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/satyam-777525/DSA-Questions/tree/master/0899-orderly-queue) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/satyam-777525/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/satyam-777525/DSA-Questions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1002-find-common-characters) |
@@ -1341,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/satyam-777525/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
