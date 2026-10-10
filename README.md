@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam-777525/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satyam-777525/DSA-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2293-min-max-game](https://github.com/satyam-777525/DSA-Questions/tree/master/2293-min-max-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/satyam-777525/DSA-Questions/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/satyam-777525/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/satyam-777525/DSA-Questions/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/satyam-777525/DSA-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2578-split-with-minimum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2578-split-with-minimum-sum) |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
 | [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/satyam-777525/DSA-Questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/2530-maximal-score-after-applying-k-operations) |
