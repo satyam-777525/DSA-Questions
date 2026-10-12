@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/satyam-777525/DSA-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/satyam-777525/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/satyam-777525/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyam-777525/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyam-777525/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyam-777525/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2899-last-visited-integers](https://github.com/satyam-777525/DSA-Questions/tree/master/2899-last-visited-integers) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/satyam-777525/DSA-Questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyam-777525/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-777525/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2578-split-with-minimum-sum) |
 | [2592-maximize-greatness-of-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2864-maximum-odd-binary-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2864-maximum-odd-binary-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyam-777525/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyam-777525/DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
