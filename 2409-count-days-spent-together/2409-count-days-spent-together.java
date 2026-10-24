@@ -10,10 +10,10 @@ class Solution {
         return start <= end ? end - start + 1 : 0;
     }
     private int toDay(String s, int[] days) {
-        int m = (s.charAt(0) - '0') * 10 + (s.charAt(1) - '0');
-        int d = (s.charAt(3) - '0') * 10 + (s.charAt(4) - '0');
-        int res = d;
-        for (int i = 0; i < m - 1; i++) res += days[i];
+        int m = (s.charAt(0)-'0')*10+(s.charAt(1)-'0');
+        int d = (s.charAt(3)-'0')*10+(s.charAt(4)-'0');
+        int res=d;
+        for (int i=0;i<m-1;i++) res += days[i];
         return res;
     }
 }
