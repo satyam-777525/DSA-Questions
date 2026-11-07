@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/satyam-777525/DSA-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/satyam-777525/DSA-Questions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/satyam-777525/DSA-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/satyam-777525/DSA-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1898-maximum-number-of-removable-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1914-cyclically-rotating-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -1082,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/satyam-777525/DSA-Questions/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/satyam-777525/DSA-Questions/tree/master/1753-maximum-score-from-removing-stones) |
+| [1882-process-tasks-using-servers](https://github.com/satyam-777525/DSA-Questions/tree/master/1882-process-tasks-using-servers) |
 | [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/satyam-777525/DSA-Questions/tree/master/2336-smallest-number-in-infinite-set) |
