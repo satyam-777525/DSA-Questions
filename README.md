@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/satyam-777525/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/satyam-777525/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/satyam-777525/DSA-Questions/tree/master/1345-jump-game-iv) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/satyam-777525/DSA-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/satyam-777525/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/satyam-777525/DSA-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/satyam-777525/DSA-Questions/tree/master/1288-remove-covered-intervals) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/satyam-777525/DSA-Questions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyam-777525/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/satyam-777525/DSA-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satyam-777525/DSA-Questions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -908,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/satyam-777525/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyam-777525/DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1243,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/satyam-777525/DSA-Questions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
 | [1189-maximum-number-of-balloons](https://github.com/satyam-777525/DSA-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/satyam-777525/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/satyam-777525/DSA-Questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyam-777525/DSA-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
