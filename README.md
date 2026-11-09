@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/satyam-777525/DSA-Questions/tree/master/0790-domino-and-tromino-tiling) |
+| [0935-knight-dialer](https://github.com/satyam-777525/DSA-Questions/tree/master/0935-knight-dialer) |
 | [0940-distinct-subsequences-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
 | [1092-shortest-common-supersequence](https://github.com/satyam-777525/DSA-Questions/tree/master/1092-shortest-common-supersequence) |
