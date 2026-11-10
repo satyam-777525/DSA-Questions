@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/satyam-777525/DSA-Questions/tree/master/0790-domino-and-tromino-tiling) |
 | [0935-knight-dialer](https://github.com/satyam-777525/DSA-Questions/tree/master/0935-knight-dialer) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0767-reorganize-string) |
 | [0820-short-encoding-of-words](https://github.com/satyam-777525/DSA-Questions/tree/master/0820-short-encoding-of-words) |
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
@@ -1455,4 +1457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
