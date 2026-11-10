@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/satyam-777525/DSA-Questions/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/satyam-777525/DSA-Questions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/satyam-777525/DSA-Questions/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/satyam-777525/DSA-Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyam-777525/DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/satyam-777525/DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/3731-find-missing-elements) |
