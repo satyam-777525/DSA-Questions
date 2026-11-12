@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0788-rotated-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/satyam-777525/DSA-Questions/tree/master/0790-domino-and-tromino-tiling) |
 | [0935-knight-dialer](https://github.com/satyam-777525/DSA-Questions/tree/master/0935-knight-dialer) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/satyam-777525/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/satyam-777525/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyam-777525/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/satyam-777525/DSA-Questions/tree/master/1268-search-suggestions-system) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyam-777525/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/satyam-777525/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0820-short-encoding-of-words](https://github.com/satyam-777525/DSA-Questions/tree/master/0820-short-encoding-of-words) |
 | [0835-image-overlap](https://github.com/satyam-777525/DSA-Questions/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/satyam-777525/DSA-Questions/tree/master/0848-shifting-letters) |
@@ -1300,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-777525/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam-777525/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1052-grumpy-bookstore-owner](https://github.com/satyam-777525/DSA-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satyam-777525/DSA-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1467,4 +1471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
