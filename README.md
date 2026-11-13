@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/satyam-777525/DSA-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/satyam-777525/DSA-Questions/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/satyam-777525/DSA-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Union-Find
 |  |
 | ------- |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/satyam-777525/DSA-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1202,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/satyam-777525/DSA-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Indexed Tree
 |  |
 | ------- |
