@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/satyam-777525/DSA-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/satyam-777525/DSA-Questions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/satyam-777525/DSA-Questions/tree/master/0147-insertion-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/satyam-777525/DSA-Questions/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/satyam-777525/DSA-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/satyam-777525/DSA-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyam-777525/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/satyam-777525/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0445-add-two-numbers-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/satyam-777525/DSA-Questions/tree/master/0396-rotate-function) |
+| [0445-add-two-numbers-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/satyam-777525/DSA-Questions/tree/master/0486-predict-the-winner) |
