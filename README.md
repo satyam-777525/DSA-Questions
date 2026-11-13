@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/satyam-777525/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/satyam-777525/DSA-Questions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/satyam-777525/DSA-Questions/tree/master/1872-stone-game-viii) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/satyam-777525/DSA-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satyam-777525/DSA-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/satyam-777525/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/satyam-777525/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satyam-777525/DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/satyam-777525/DSA-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/satyam-777525/DSA-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2233-maximum-product-after-k-increments](https://github.com/satyam-777525/DSA-Questions/tree/master/2233-maximum-product-after-k-increments) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satyam-777525/DSA-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -579,7 +581,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
-| [4014-minimum-total-price-after-applying-discounts](https://github.com/satyam-777525/DSA-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/satyam-777525/DSA-Questions/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -738,7 +739,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
-| [4014-minimum-total-price-after-applying-discounts](https://github.com/satyam-777525/DSA-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Union-Find
 |  |
 | ------- |
@@ -1081,7 +1081,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-| [4014-minimum-total-price-after-applying-discounts](https://github.com/satyam-777525/DSA-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1104,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/satyam-777525/DSA-Questions/tree/master/2055-plates-between-candles) |
 | [2121-intervals-between-identical-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2121-intervals-between-identical-elements) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/satyam-777525/DSA-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/satyam-777525/DSA-Questions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2906-construct-product-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/2906-construct-product-matrix) |
@@ -1205,7 +1205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-| [4014-minimum-total-price-after-applying-discounts](https://github.com/satyam-777525/DSA-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Indexed Tree
 |  |
 | ------- |
