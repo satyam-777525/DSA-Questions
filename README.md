@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/satyam-777525/DSA-Questions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/satyam-777525/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satyam-777525/DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1482,4 +1485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
