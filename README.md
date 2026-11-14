@@ -818,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-777525/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/satyam-777525/DSA-Questions/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0657-robot-return-to-origin) |
