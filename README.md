@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/satyam-777525/DSA-Questions/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/satyam-777525/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1034-coloring-a-border](https://github.com/satyam-777525/DSA-Questions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/satyam-777525/DSA-Questions/tree/master/1267-count-servers-that-communicate) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/satyam-777525/DSA-Questions/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/satyam-777525/DSA-Questions/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/satyam-777525/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1034-coloring-a-border](https://github.com/satyam-777525/DSA-Questions/tree/master/1034-coloring-a-border) |
 | [1096-brace-expansion-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyam-777525/DSA-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/satyam-777525/DSA-Questions/tree/master/1020-number-of-enclaves) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/satyam-777525/DSA-Questions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1034-coloring-a-border](https://github.com/satyam-777525/DSA-Questions/tree/master/1034-coloring-a-border) |
 | [1052-grumpy-bookstore-owner](https://github.com/satyam-777525/DSA-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/satyam-777525/DSA-Questions/tree/master/1054-distant-barcodes) |
 | [1089-duplicate-zeros](https://github.com/satyam-777525/DSA-Questions/tree/master/1089-duplicate-zeros) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/satyam-777525/DSA-Questions/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/satyam-777525/DSA-Questions/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/satyam-777525/DSA-Questions/tree/master/1020-number-of-enclaves) |
+| [1034-coloring-a-border](https://github.com/satyam-777525/DSA-Questions/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/satyam-777525/DSA-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/satyam-777525/DSA-Questions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/1254-number-of-closed-islands) |
