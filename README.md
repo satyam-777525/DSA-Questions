@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0525-contiguous-array) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
+| [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyam-777525/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam-777525/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/satyam-777525/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0767-reorganize-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0767-reorganize-string) |
 | [0817-linked-list-components](https://github.com/satyam-777525/DSA-Questions/tree/master/0817-linked-list-components) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/satyam-777525/DSA-Questions/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0767-reorganize-string) |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/satyam-777525/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyam-777525/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0767-reorganize-string) |
@@ -1170,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/satyam-777525/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/satyam-777525/DSA-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0767-reorganize-string) |
@@ -1343,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0767-reorganize-string) |
 | [0900-rle-iterator](https://github.com/satyam-777525/DSA-Questions/tree/master/0900-rle-iterator) |
 | [0923-3sum-with-multiplicity](https://github.com/satyam-777525/DSA-Questions/tree/master/0923-3sum-with-multiplicity) |
