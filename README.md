@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0525-contiguous-array) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyam-777525/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0630-course-schedule-iii) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-777525/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/satyam-777525/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0767-reorganize-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0767-reorganize-string) |
 | [0817-linked-list-components](https://github.com/satyam-777525/DSA-Questions/tree/master/0817-linked-list-components) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0525-contiguous-array) |
 | [0848-shifting-letters](https://github.com/satyam-777525/DSA-Questions/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/satyam-777525/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
