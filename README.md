@@ -817,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/satyam-777525/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0415-add-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-777525/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/satyam-777525/DSA-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/satyam-777525/DSA-Questions/tree/master/0443-string-compression) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/satyam-777525/DSA-Questions/tree/master/0068-text-justification) |
+| [0415-add-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/satyam-777525/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/satyam-777525/DSA-Questions/tree/master/0844-backspace-string-compare) |
@@ -1250,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/satyam-777525/DSA-Questions/tree/master/0396-rotate-function) |
+| [0415-add-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/0477-total-hamming-distance) |
