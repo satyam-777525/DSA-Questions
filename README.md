@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/satyam-777525/DSA-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/satyam-777525/DSA-Questions/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satyam-777525/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/satyam-777525/DSA-Questions/tree/master/2716-minimize-string-length) |
 | [2747-count-zero-request-servers](https://github.com/satyam-777525/DSA-Questions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/satyam-777525/DSA-Questions/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyam-777525/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/satyam-777525/DSA-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/satyam-777525/DSA-Questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2747-count-zero-request-servers](https://github.com/satyam-777525/DSA-Questions/tree/master/2747-count-zero-request-servers) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/satyam-777525/DSA-Questions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/satyam-777525/DSA-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-777525/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
