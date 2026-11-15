@@ -782,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Counting
 |  |
 | ------- |
