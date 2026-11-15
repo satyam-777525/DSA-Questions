@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/satyam-777525/DSA-Questions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-777525/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
@@ -1288,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/satyam-777525/DSA-Questions/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1431,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0398-random-pick-index) |
 ## Geometry
 |  |
 | ------- |
@@ -1571,4 +1574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyam-777525/DSA-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
