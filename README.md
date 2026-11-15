@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/satyam-777525/DSA-Questions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [4001-aggregate-two-time-series](https://github.com/satyam-777525/DSA-Questions/tree/master/4001-aggregate-two-time-series) |
 | [4020-elevator-requests-i](https://github.com/satyam-777525/DSA-Questions/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/satyam-777525/DSA-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyam-777525/DSA-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4001-aggregate-two-time-series](https://github.com/satyam-777525/DSA-Questions/tree/master/4001-aggregate-two-time-series) |
 ## Binary Indexed Tree
 |  |
 | ------- |
