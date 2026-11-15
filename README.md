@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/satyam-777525/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/satyam-777525/DSA-Questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/satyam-777525/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/satyam-777525/DSA-Questions/tree/master/0396-rotate-function) |
+| [0419-battleships-in-a-board](https://github.com/satyam-777525/DSA-Questions/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0477-total-hamming-distance](https://github.com/satyam-777525/DSA-Questions/tree/master/0477-total-hamming-distance) |
@@ -985,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/satyam-777525/DSA-Questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
