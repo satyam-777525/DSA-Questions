@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/satyam-777525/DSA-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2578-split-with-minimum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2578-split-with-minimum-sum) |
 | [2592-maximize-greatness-of-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/2592-maximize-greatness-of-an-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2864-maximum-odd-binary-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyam-777525/DSA-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1327,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/satyam-777525/DSA-Questions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/satyam-777525/DSA-Questions/tree/master/2413-smallest-even-multiple) |
 | [2578-split-with-minimum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2578-split-with-minimum-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2864-maximum-odd-binary-number) |
 | [2928-distribute-candies-among-children-i](https://github.com/satyam-777525/DSA-Questions/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
