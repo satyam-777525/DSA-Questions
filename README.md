@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/satyam-777525/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/satyam-777525/DSA-Questions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/satyam-777525/DSA-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/satyam-777525/DSA-Questions/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/satyam-777525/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/satyam-777525/DSA-Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/satyam-777525/DSA-Questions/tree/master/0338-counting-bits) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/satyam-777525/DSA-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/satyam-777525/DSA-Questions/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/satyam-777525/DSA-Questions/tree/master/0303-range-sum-query-immutable) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyam-777525/DSA-Questions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/satyam-777525/DSA-Questions/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/satyam-777525/DSA-Questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
