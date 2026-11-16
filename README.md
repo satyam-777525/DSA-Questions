@@ -1258,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/satyam-777525/DSA-Questions/tree/master/1291-sequential-digits) |
 | [1958-check-if-move-is-legal](https://github.com/satyam-777525/DSA-Questions/tree/master/1958-check-if-move-is-legal) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/satyam-777525/DSA-Questions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyam-777525/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/satyam-777525/DSA-Questions/tree/master/2928-distribute-candies-among-children-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyam-777525/DSA-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1369,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/satyam-777525/DSA-Questions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/satyam-777525/DSA-Questions/tree/master/2413-smallest-even-multiple) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/satyam-777525/DSA-Questions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2578-split-with-minimum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/satyam-777525/DSA-Questions/tree/master/2864-maximum-odd-binary-number) |
