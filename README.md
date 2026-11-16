@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/satyam-777525/DSA-Questions/tree/master/0529-minesweeper) |
 | [0538-convert-bst-to-greater-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/satyam-777525/DSA-Questions/tree/master/0617-merge-two-binary-trees) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/satyam-777525/DSA-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satyam-777525/DSA-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/satyam-777525/DSA-Questions/tree/master/0529-minesweeper) |
 | [0617-merge-two-binary-trees](https://github.com/satyam-777525/DSA-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/satyam-777525/DSA-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/satyam-777525/DSA-Questions/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/satyam-777525/DSA-Questions/tree/master/0539-minimum-time-difference) |
 | [0554-brick-wall](https://github.com/satyam-777525/DSA-Questions/tree/master/0554-brick-wall) |
 | [0561-array-partition](https://github.com/satyam-777525/DSA-Questions/tree/master/0561-array-partition) |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/satyam-777525/DSA-Questions/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/satyam-777525/DSA-Questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/satyam-777525/DSA-Questions/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/satyam-777525/DSA-Questions/tree/master/0529-minesweeper) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/satyam-777525/DSA-Questions/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/satyam-777525/DSA-Questions/tree/master/0835-image-overlap) |
