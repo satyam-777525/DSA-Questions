@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/satyam-777525/DSA-Questions/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/satyam-777525/DSA-Questions/tree/master/0554-brick-wall) |
+| [0561-array-partition](https://github.com/satyam-777525/DSA-Questions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/satyam-777525/DSA-Questions/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyam-777525/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/satyam-777525/DSA-Questions/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/satyam-777525/DSA-Questions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyam-777525/DSA-Questions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/satyam-777525/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0502-ipo](https://github.com/satyam-777525/DSA-Questions/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/satyam-777525/DSA-Questions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/satyam-777525/DSA-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyam-777525/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/0630-course-schedule-iii) |
@@ -1523,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/satyam-777525/DSA-Questions/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/satyam-777525/DSA-Questions/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-777525/DSA-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/satyam-777525/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
