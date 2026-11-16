@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1424-diagonal-traverse-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satyam-777525/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satyam-777525/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/satyam-777525/DSA-Questions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/satyam-777525/DSA-Questions/tree/master/1402-reducing-dishes) |
 | [1424-diagonal-traverse-ii](https://github.com/satyam-777525/DSA-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/satyam-777525/DSA-Questions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satyam-777525/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1275,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/satyam-777525/DSA-Questions/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/satyam-777525/DSA-Questions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyam-777525/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/satyam-777525/DSA-Questions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satyam-777525/DSA-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1754-largest-merge-of-two-strings](https://github.com/satyam-777525/DSA-Questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1813-sentence-similarity-iii](https://github.com/satyam-777525/DSA-Questions/tree/master/1813-sentence-similarity-iii) |
